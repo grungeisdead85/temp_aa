@@ -1,0 +1,1068 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_AGAVE:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_AGAVE:STRUCTURAL",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_AGAVE_STRUCTURAL",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_AGAVE_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_AGAVE_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_BAOBAB:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BAOBAB:BAOBAB_SEED",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BAOBAB_BAOBAB_SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BAOBAB_BAOBAB_SEED",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_BAOBAB_BAOBAB_SEED"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_BARBERRY:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BARBERRY:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BARBERRY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BARBERRY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_BARBERRY_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_BEECH:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BEECH:NUT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BEECH_NUT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BEECH_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_BEECH_NUT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_BLACKCURRANT:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BLACKCURRANT:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BLACKCURRANT_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_BLACKCURRANT_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_BLACKCURRANT_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_CATNIP:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_CATNIP:LEAF",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_CATNIP_LEAF",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_CATNIP_LEAF",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_CATNIP_LEAF"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_CORNFLOWER:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_CORNFLOWER:FLOWER",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_CORNFLOWER_FLOWER",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_CORNFLOWER_FLOWER",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_CORNFLOWER_FLOWER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_DANDELION:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_DANDELION:STRUCTURAL",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_DANDELION_STRUCTURAL",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_DANDELION_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_DANDELION_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:PERSIMMON:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_EBONY:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_EBONY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_EBONY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_EBONY_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_ELDERBERRY:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_ELDERBERRY:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_ELDERBERRY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_ELDERBERRY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_ELDERBERRY_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_FIG:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_FIG:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_FIG_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_FIG_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_FIG_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 11,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_KIWIFRUIT:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_KIWIFRUIT:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_KIWIFRUIT_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_KIWIFRUIT_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_KIWIFRUIT_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 12,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_LINDEN:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_LINDEN:FLOWER",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_LINDEN_FLOWER",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_LINDEN_FLOWER",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_LINDEN_FLOWER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 13,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_MOON_BERRY:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_MOON_BERRY:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_MOON_BERRY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_MOON_BERRY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_MOON_BERRY_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 14,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_MULBERRY:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_MULBERRY:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_MULBERRY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_MULBERRY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_MULBERRY_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 15,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_NETTLE:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_NETTLE:LEAF",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_NETTLE_LEAF",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_NETTLE_LEAF",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_NETTLE_LEAF"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 16,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_OKRA:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_OKRA:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_OKRA_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_OKRA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_OKRA_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 17,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_PRICKLY_PEAR:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_PRICKLY_PEAR:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_PRICKLY_PEAR_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_PRICKLY_PEAR_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_PRICKLY_PEAR_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 18,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_PUMPKIN:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_PUMPKIN:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_PUMPKIN_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_PUMPKIN_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_PUMPKIN_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 19,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_REDBUD:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_REDBUD:FLOWER",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_REDBUD_FLOWER",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_REDBUD_FLOWER",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_REDBUD_FLOWER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 20,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_REDCURRANT:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_REDCURRANT:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_REDCURRANT_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_REDCURRANT_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_REDCURRANT_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 21,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_ROSE:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_ROSE:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_ROSE_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_ROSE_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_ROSE_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 22,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_SPEARMINT:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_SPEARMINT:STRUCTURAL",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_SPEARMINT_STRUCTURAL",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_SPEARMINT_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_SPEARMINT_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 23,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_SUGAR_CANE:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_SUGAR_CANE:STRUCTURAL",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_SUGAR_CANE_STRUCTURAL",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_SUGAR_CANE_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_SUGAR_CANE_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 24,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_SUMAC:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SUMAC:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_SUMAC_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_SUMAC_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_SUMAC_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 25,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "DRINK",
+				"material" : "PLANT:ABV_WHITECURRANT:DRINK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_WHITECURRANT:FRUIT",
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_WHITECURRANT_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BREW_BARREL_FROM_ABV_WHITECURRANT_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BREW_BARREL_FROM_ABV_WHITECURRANT_FRUIT"
+	}
+]

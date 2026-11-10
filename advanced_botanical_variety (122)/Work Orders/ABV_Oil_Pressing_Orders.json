@@ -1,0 +1,187 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_BAOBAB:OIL",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "GLOB",
+				"material" : "PLANT:ABV_BAOBAB:BAOBAB_SEED",
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_BAOBAB_BAOBAB_SEED",
+				"value" : 750
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_BAOBAB_BAOBAB_SEED",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BARREL_OIL_FROM_ABV_BAOBAB_BAOBAB_SEED"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_OKRA:OIL",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "GLOB",
+				"material" : "PLANT:ABV_OKRA:FRUIT",
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_OKRA_FRUIT",
+				"value" : 750
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_OKRA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BARREL_OIL_FROM_ABV_OKRA_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_PUMPKIN:OIL",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "GLOB",
+				"material" : "PLANT:ABV_PUMPKIN:FRUIT",
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_PUMPKIN_FRUIT",
+				"value" : 750
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_PUMPKIN_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BARREL_OIL_FROM_ABV_PUMPKIN_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_SAFFLOWER:OIL",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "GLOB",
+				"material" : "PLANT:ABV_SAFFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_SAFFLOWER_SEEDHEAD",
+				"value" : 750
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_SAFFLOWER_SEEDHEAD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BARREL_OIL_FROM_ABV_SAFFLOWER_SEEDHEAD"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_SUNFLOWER:OIL",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "GLOB",
+				"material" : "PLANT:ABV_SUNFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_SUNFLOWER_SEEDHEAD",
+				"value" : 750
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_BARREL_OIL_FROM_ABV_SUNFLOWER_SEEDHEAD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_BARREL_OIL_FROM_ABV_SUNFLOWER_SEEDHEAD"
+	}
+]

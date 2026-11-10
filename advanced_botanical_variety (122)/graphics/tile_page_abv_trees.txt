@@ -1,0 +1,58 @@
+tile_page_abv_trees
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:ABV_TREE_GROWTHS]
+	[FILE:images/abv_tree_growths.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:224:1088]
+
+[TILE_PAGE:ABV_BAOBAB]
+	[FILE:images/abv_tree_baobab.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:ABV_BALD_CYPRESS]
+	[FILE:images/abv_tree_bald_cypress.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:ABV_BALD_CYPRESS_LEAVES]
+	[FILE:images/abv_tree_bald_cypress_leaves.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:160:576]
+
+[TILE_PAGE:ABV_EBONY]
+	[FILE:images/abv_tree_ebony.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:ABV_EUCALYPTUS]
+	[FILE:images/abv_tree_eucalyptus.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:ABV_PURPLE_HEART]
+	[FILE:images/abv_tree_purpleheart.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:ABV_REDWOOD]
+	[FILE:images/abv_tree_redwood.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:ABV_SYCAMORE]
+	[FILE:images/abv_tree_sycamore.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:ABV_SYCAMORE_LEAVES]
+	[FILE:images/abv_tree_sycamore_leaves.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:640]
+
+[TILE_PAGE:ABV_YEW]
+	[FILE:images/abv_tree_yew.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]

@@ -1,0 +1,617 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_ALMOND_MUSHROOM:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_ALMOND_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_ALMOND_MUSHROOM_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_ALMOND_MUSHROOM_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_ALMOND_MUSHROOM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_BAOBAB:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BAOBAB:FRUIT_PULP",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_BAOBAB_FRUIT_PULP",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_BAOBAB_FRUIT_PULP",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_BAOBAB_FRUIT_PULP"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_BEECH:FLOUR",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BEECH:NUT",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_BEECH_NUT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_BEECH_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_FLOUR_FROM_ABV_BEECH_NUT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_BLACK_TRUMPET_MUSHROOM:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_BLACK_TRUMPET_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_BLACK_TRUMPET_MUSHROOM_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_BLACK_TRUMPET_MUSHROOM_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_BLACK_TRUMPET_MUSHROOM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_CATNIP:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_CATNIP:LEAF",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_CATNIP_LEAF",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_CATNIP_LEAF",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_CATNIP_LEAF"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_CHANTERELLE:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_CHANTERELLE:STRUCTURAL",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_CHANTERELLE_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_CHANTERELLE_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_CHANTERELLE_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_CROCUS:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_CROCUS:FLOWER",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_CROCUS_FLOWER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_CROCUS_FLOWER",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_CROCUS_FLOWER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_OKRA:FLOUR",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_OKRA:FRUIT",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_OKRA_FRUIT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_OKRA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_FLOUR_FROM_ABV_OKRA_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_ROSE:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_ROSE:FLOWER",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_ROSE_FLOWER",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_ROSE_FLOWER",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_ROSE_FLOWER"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_SAFFLOWER:FLOUR",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SAFFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_SAFFLOWER_SEEDHEAD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_SAFFLOWER_SEEDHEAD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_FLOUR_FROM_ABV_SAFFLOWER_SEEDHEAD"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_SHIITAKE:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_SHIITAKE:STRUCTURAL",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_SHIITAKE_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_SHIITAKE_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_SHIITAKE_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 11,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_SPEARMINT:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_SPEARMINT:STRUCTURAL",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_SPEARMINT_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_SPEARMINT_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_SPEARMINT_STRUCTURAL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 12,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_SUMAC:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SUMAC:FRUIT",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_SUMAC_FRUIT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_SUMAC_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_SUMAC_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 13,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_SUNFLOWER:FLOUR",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SUNFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_SUNFLOWER_SEEDHEAD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_FLOUR_FROM_ABV_SUNFLOWER_SEEDHEAD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_FLOUR_FROM_ABV_SUNFLOWER_SEEDHEAD"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 14,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_TURMERIC:POWDER",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_TURMERIC:STRUCTURAL",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_TURMERIC_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_MILL_POWDER_FROM_ABV_TURMERIC_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MILL_POWDER_FROM_ABV_TURMERIC_STRUCTURAL"
+	}
+]

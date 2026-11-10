@@ -1,0 +1,93 @@
+tile_page_abv_giant_mushrooms
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:ABV_GIANT_ALMOND_MUSHROOM]
+	[FILE:images/abv_giant_almond_mushroom.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_BLACK_TRUMPET]
+	[FILE:images/abv_giant_black_trumpet.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_BROWN_BUTTON]
+	[FILE:images/abv_giant_brown_button.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_CHANTERELLE]
+	[FILE:images/abv_giant_chanterelle.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_DEATH_CAP]
+	[FILE:images/abv_giant_death_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_FIELD_MUSHROOM]
+	[FILE:images/abv_giant_field_mushroom.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_FLY_AGARIC]
+	[FILE:images/abv_giant_fly_agaric.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_FOUL_BOLETE]
+	[FILE:images/abv_giant_foul_bolete.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_GREEN_BRITTLEGILL]
+	[FILE:images/abv_giant_green_russula.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_INDIGO_MILK_CAP]
+	[FILE:images/abv_giant_indigo_milk_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_KING_BOLETE]
+	[FILE:images/abv_giant_king_bolete.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_KING_TRUMPET]
+	[FILE:images/abv_giant_king_oyster.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_MOREL]
+	[FILE:images/abv_giant_morel.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_PADDY_STRAW_MUSHROOM]
+	[FILE:images/abv_giant_paddy_straw.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_SAFFRON_MILK_CAP]
+	[FILE:images/abv_giant_saffron_milk_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_SHAGGY_MANE_MUSHROOM]
+	[FILE:images/abv_giant_shaggy_mane.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_WHITE_BUTTON]
+	[FILE:images/abv_giant_white_button.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]
+
+[TILE_PAGE:ABV_GIANT_WINE_CAP_MUSHROOM]
+	[FILE:images/abv_giant_wine_cap.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:544:224]

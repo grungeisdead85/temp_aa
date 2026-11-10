@@ -1,0 +1,498 @@
+[
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_BROWN_BUTTON_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_BROWN_BUTTON_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_BROWN_BUTTON_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_BROWN_BUTTON_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_CATNIP:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_CATNIP:SEEDHEAD",
+				"reaction_id" : "ABV_COLLECT_ABV_CATNIP_SEEDS_FROM_SEEDHEAD",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_CATNIP_SEEDS_FROM_SEEDHEAD"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_CORNFLOWER:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_CORNFLOWER:POD",
+				"reaction_id" : "ABV_COLLECT_ABV_CORNFLOWER_SEEDS_FROM_POD",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_CORNFLOWER_SEEDS_FROM_POD"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_CROCUS:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_CROCUS:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_CROCUS_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_CROCUS_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_DANDELION:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_DANDELION:SEEDHEAD",
+				"reaction_id" : "ABV_COLLECT_ABV_DANDELION_SEEDS_FROM_SEEDHEAD",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_DANDELION_SEEDS_FROM_SEEDHEAD"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_FIELD_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_FIELD_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_FIELD_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_FIELD_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_GOLD_NEEDLE_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_GOLD_NEEDLE_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_GOLD_NEEDLE_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_GOLD_NEEDLE_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_HORSETAIL:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_HORSETAIL:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_HORSETAIL_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_HORSETAIL_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_INDIGO:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_INDIGO:FRUIT",
+				"reaction_id" : "ABV_COLLECT_ABV_INDIGO_SEEDS_FROM_FRUIT",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_INDIGO_SEEDS_FROM_FRUIT"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_KING_TRUMPET_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_KING_TRUMPET_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_KING_TRUMPET_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_KING_TRUMPET_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_PADDY_STRAW_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_PADDY_STRAW_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_PADDY_STRAW_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_PADDY_STRAW_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 11,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_SHAGGY_MANE_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_SHAGGY_MANE_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_SHAGGY_MANE_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_SHAGGY_MANE_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 12,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_WELD:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_WELD:SEEDHEAD",
+				"reaction_id" : "ABV_COLLECT_ABV_WELD_SEEDS_FROM_SEEDHEAD",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_WELD_SEEDS_FROM_SEEDHEAD"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 13,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_WHITE_BUTTON_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_WHITE_BUTTON_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_WHITE_BUTTON_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_WHITE_BUTTON_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 14,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_WINE_CAP_MUSHROOM:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_WINE_CAP_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_WINE_CAP_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_WINE_CAP_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 15,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_WOAD:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_WOAD:FRUIT",
+				"reaction_id" : "ABV_COLLECT_ABV_WOAD_SEEDS_FROM_FRUIT",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_WOAD_SEEDS_FROM_FRUIT"
+	}
+]

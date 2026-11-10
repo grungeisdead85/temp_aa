@@ -1,0 +1,8 @@
+tile_page_abv_shrubs
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:ABV_SHRUBS]
+	[FILE:images/abv_shrubs.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:352:2208]

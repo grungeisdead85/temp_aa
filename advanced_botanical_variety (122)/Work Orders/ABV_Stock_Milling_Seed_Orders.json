@@ -1,0 +1,212 @@
+[
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_ALMOND_MUSHROOM:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_ALMOND_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_ALMOND_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_ALMOND_MUSHROOM:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_ALMOND_MUSHROOM_SEEDS_FROM_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_ALMOND_MUSHROOM_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_SAFFLOWER:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SAFFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_COLLECT_ABV_SAFFLOWER_SEEDS_FROM_SEEDHEAD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SAFFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_COLLECT_ABV_SAFFLOWER_SEEDS_FROM_SEEDHEAD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_SAFFLOWER_SEEDS_FROM_SEEDHEAD"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_SHIITAKE:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_SHIITAKE:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_SHIITAKE_SEEDS_FROM_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_SHIITAKE:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_SHIITAKE_SEEDS_FROM_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_SHIITAKE_SEEDS_FROM_STRUCTURAL"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_SUNFLOWER:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SUNFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_COLLECT_ABV_SUNFLOWER_SEEDS_FROM_SEEDHEAD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SUNFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_COLLECT_ABV_SUNFLOWER_SEEDS_FROM_SEEDHEAD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_SUNFLOWER_SEEDS_FROM_SEEDHEAD"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABV_TURMERIC:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_TURMERIC:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_TURMERIC_SEEDS_FROM_STRUCTURAL",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:ABV_TURMERIC:STRUCTURAL",
+				"reaction_id" : "ABV_COLLECT_ABV_TURMERIC_SEEDS_FROM_STRUCTURAL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_COLLECT_ABV_TURMERIC_SEEDS_FROM_STRUCTURAL"
+	}
+]

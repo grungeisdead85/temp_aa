@@ -1,0 +1,27 @@
+[
+	{
+		"amount_left" : 10,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BAOBAB:FRUIT",
+				"reaction_id" : "ABV_PROCESS_ABV_BAOBAB_FRUIT",
+				"value" : 10
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_PROCESS_ABV_BAOBAB_FRUIT"
+	}
+]

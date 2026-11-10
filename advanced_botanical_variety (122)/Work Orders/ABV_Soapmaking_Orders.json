@@ -1,0 +1,282 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "PLANT:ABV_BAOBAB:SOAP",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_BAOBAB:OIL",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_BAOBAB_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"oil"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_BAOBAB_OIL",
+				"value" : 1
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "LIQUID_MISC",
+				"material" : "LYE",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_BAOBAB_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"lye"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_BAOBAB_OIL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MAKE_SOAP_FROM_ABV_BAOBAB_OIL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "PLANT:ABV_OKRA:SOAP",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_OKRA:OIL",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_OKRA_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"oil"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_OKRA_OIL",
+				"value" : 1
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "LIQUID_MISC",
+				"material" : "LYE",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_OKRA_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"lye"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_OKRA_OIL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MAKE_SOAP_FROM_ABV_OKRA_OIL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "PLANT:ABV_PUMPKIN:SOAP",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_PUMPKIN:OIL",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_PUMPKIN_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"oil"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_PUMPKIN_OIL",
+				"value" : 1
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "LIQUID_MISC",
+				"material" : "LYE",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_PUMPKIN_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"lye"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_PUMPKIN_OIL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MAKE_SOAP_FROM_ABV_PUMPKIN_OIL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "PLANT:ABV_SAFFLOWER:SOAP",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_SAFFLOWER:OIL",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SAFFLOWER_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"oil"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SAFFLOWER_OIL",
+				"value" : 1
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "LIQUID_MISC",
+				"material" : "LYE",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SAFFLOWER_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"lye"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SAFFLOWER_OIL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MAKE_SOAP_FROM_ABV_SAFFLOWER_OIL"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "BAR",
+				"material" : "PLANT:ABV_SUNFLOWER:SOAP",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_SUNFLOWER:OIL",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SUNFLOWER_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"oil"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SUNFLOWER_OIL",
+				"value" : 1
+			},
+			{
+				"condition" : "AtLeast",
+				"item_type" : "LIQUID_MISC",
+				"material" : "LYE",
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SUNFLOWER_OIL",
+				"value" : 150
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"lye"
+				],
+				"reaction_id" : "ABV_MAKE_SOAP_FROM_ABV_SUNFLOWER_OIL",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MAKE_SOAP_FROM_ABV_SUNFLOWER_OIL"
+	}
+]

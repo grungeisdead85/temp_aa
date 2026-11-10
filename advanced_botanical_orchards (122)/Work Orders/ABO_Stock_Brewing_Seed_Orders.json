@@ -1,0 +1,170 @@
+[
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABO_BAOBAB_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BAOBAB:BAOBAB_SEED",
+				"reaction_id" : "ABO_COLLECT_ABO_BAOBAB_SAPLING_SEEDS_FROM_ABV_BAOBAB_BAOBAB_SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BAOBAB:BAOBAB_SEED",
+				"reaction_id" : "ABO_COLLECT_ABO_BAOBAB_SAPLING_SEEDS_FROM_ABV_BAOBAB_BAOBAB_SEED",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABO_COLLECT_ABO_BAOBAB_SAPLING_SEEDS_FROM_ABV_BAOBAB_BAOBAB_SEED"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABO_BEECH_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BEECH:NUT",
+				"reaction_id" : "ABO_COLLECT_ABO_BEECH_SAPLING_SEEDS_FROM_ABV_BEECH_NUT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_BEECH:NUT",
+				"reaction_id" : "ABO_COLLECT_ABO_BEECH_SAPLING_SEEDS_FROM_ABV_BEECH_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABO_COLLECT_ABO_BEECH_SAPLING_SEEDS_FROM_ABV_BEECH_NUT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABO_EBONY_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_EBONY:FRUIT",
+				"reaction_id" : "ABO_COLLECT_ABO_EBONY_SAPLING_SEEDS_FROM_ABV_EBONY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_EBONY:FRUIT",
+				"reaction_id" : "ABO_COLLECT_ABO_EBONY_SAPLING_SEEDS_FROM_ABV_EBONY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABO_COLLECT_ABO_EBONY_SAPLING_SEEDS_FROM_ABV_EBONY_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:ABO_MULBERRY_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_MULBERRY:FRUIT",
+				"reaction_id" : "ABO_COLLECT_ABO_MULBERRY_SAPLING_SEEDS_FROM_ABV_MULBERRY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_MULBERRY:FRUIT",
+				"reaction_id" : "ABO_COLLECT_ABO_MULBERRY_SAPLING_SEEDS_FROM_ABV_MULBERRY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABO_COLLECT_ABO_MULBERRY_SAPLING_SEEDS_FROM_ABV_MULBERRY_FRUIT"
+	}
+]

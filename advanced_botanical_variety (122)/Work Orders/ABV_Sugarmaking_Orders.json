@@ -1,0 +1,52 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "POWDER_MISC",
+				"material" : "PLANT:ABV_SUGAR_CANE:SUGAR",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_SUGAR_CANE:SYRUP",
+				"reaction_id" : "ABV_CRYSTALLIZE_SUGAR_FROM_ABV_SUGAR_CANE_SYRUP",
+				"value" : 750
+			},
+			{
+				"condition" : "AtLeast",
+				"contains" : 
+				[
+					"syrup"
+				],
+				"reaction_id" : "ABV_CRYSTALLIZE_SUGAR_FROM_ABV_SUGAR_CANE_SYRUP",
+				"value" : 1
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"empty"
+				],
+				"item_type" : "BAG",
+				"reaction_id" : "ABV_CRYSTALLIZE_SUGAR_FROM_ABV_SUGAR_CANE_SYRUP",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_CRYSTALLIZE_SUGAR_FROM_ABV_SUGAR_CANE_SYRUP"
+	}
+]

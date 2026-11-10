@@ -1,0 +1,8 @@
+tile_page_abv_grasses
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:ABV_GRASSES]
+	[FILE:images/abv_grasses.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:160:576]

@@ -1,0 +1,84 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_PUMPKIN:MILK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_PUMPKIN:FRUIT",
+				"reaction_id" : "ABV_MAKE_MILK_FROM_ABV_PUMPKIN_FRUIT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_MAKE_MILK_FROM_ABV_PUMPKIN_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MAKE_MILK_FROM_ABV_PUMPKIN_FRUIT"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 1,
+		"frequency" : "Monthly",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "Exactly",
+				"item_type" : "LIQUID_MISC",
+				"material" : "PLANT:ABV_SUNFLOWER:MILK",
+				"value" : 0
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ABV_SUNFLOWER:SEEDHEAD",
+				"reaction_id" : "ABV_MAKE_MILK_FROM_ABV_SUNFLOWER_SEEDHEAD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"food_storage",
+					"empty"
+				],
+				"reaction_id" : "ABV_MAKE_MILK_FROM_ABV_SUNFLOWER_SEEDHEAD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "ABV_MAKE_MILK_FROM_ABV_SUNFLOWER_SEEDHEAD"
+	}
+]
