@@ -1,0 +1,2090 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ACACIA_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ACACIA_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_ACACIA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ALDER_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ALDER_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_ALDER_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ALMOND_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ALMOND_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_ALMOND_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_APPLE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_APPLE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_APPLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_APRICOT_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_APRICOT_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_APRICOT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ASH_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ASH_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_ASH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_AVOCADO_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_AVOCADO_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_AVOCADO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BANANA_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BANANA_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_BANANA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BAYBERRY_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BAYBERRY_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_BAYBERRY_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BIRCH_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BIRCH_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_BIRCH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BITTER_ORANGE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BITTER_ORANGE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_BITTER_ORANGE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 11,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BLACK_CAP_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BLACK_CAP_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_BLACK_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 12,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BLOOD_THORN_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BLOOD_THORN_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_BLOOD_THORN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 13,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CACAO_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CACAO_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CACAO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 14,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CANDLENUT_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CANDLENUT_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CANDLENUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 15,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CARAMBOLA_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CARAMBOLA_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CARAMBOLA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 16,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CASHEW_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CASHEW_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CASHEW_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 17,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CEDAR_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CEDAR_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CEDAR_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 18,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CHERRY_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CHERRY_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CHERRY_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 19,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CHESTNUT_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CHESTNUT_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CHESTNUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 20,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CITRON_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CITRON_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CITRON_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 21,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PALM_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PALM_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PALM_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 22,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_COFFEE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_COFFEE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_COFFEE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 23,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CUSTARD-APPLE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CUSTARD-APPLE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_CUSTARD-APPLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 24,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_DATE_PALM_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_DATE_PALM_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_DATE_PALM_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 25,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_DESERT_LIME_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_DESERT_LIME_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_DESERT_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 26,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_DURIAN_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_DURIAN_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_DURIAN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 27,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_FEATHER_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_FEATHER_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_FEATHER_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 28,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_FINGER_LIME_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_FINGER_LIME_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_FINGER_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 29,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_FUNGIWOOD_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_FUNGIWOOD_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_FUNGIWOOD_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 30,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GINKGO_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_GINKGO_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_GINKGO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 31,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GLUMPRONG_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_GLUMPRONG_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_GLUMPRONG_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 32,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GOBLIN_CAP_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_GOBLIN_CAP_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_GOBLIN_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 33,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GUAVA_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_GUAVA_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_GUAVA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 34,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_HAZEL_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_HAZEL_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_HAZEL_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 35,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_HIGHWOOD_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_HIGHWOOD_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_HIGHWOOD_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 36,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_KAPOK_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_KAPOK_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_KAPOK_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 37,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_KUMQUAT_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_KUMQUAT_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_KUMQUAT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 38,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_LARCH_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_LARCH_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_LARCH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 39,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_LIME_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_LIME_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 40,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_LYCHEE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_LYCHEE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_LYCHEE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 41,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MACADAMIA_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_MACADAMIA_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_MACADAMIA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 42,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MAHOGANY_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_MAHOGANY_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_MAHOGANY_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 43,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MANGO_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_MANGO_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_MANGO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 44,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MANGROVE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_MANGROVE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_MANGROVE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 45,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MAPLE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_MAPLE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_MAPLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 46,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_NETHER_CAP_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_NETHER_CAP_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_NETHER_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 47,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_OAK_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_OAK_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_OAK_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 48,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_OLIVE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_OLIVE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_OLIVE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 49,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ORANGE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ORANGE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_ORANGE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 50,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PAPAYA_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PAPAYA_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PAPAYA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 51,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PARADISE_NUT_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PARADISE_NUT_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PARADISE_NUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 52,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PEACH_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PEACH_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PEACH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 53,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PEAR_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PEAR_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PEAR_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 54,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PECAN_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PECAN_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PECAN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 55,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PERSIMMON_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PERSIMMON_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PERSIMMON_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 56,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PINE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PINE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PINE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 57,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PLUM_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PLUM_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_PLUM_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 58,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_POMEGRANATE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_POMEGRANATE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_POMEGRANATE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 59,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_POMELO_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_POMELO_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_POMELO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 60,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_RAMBUTAN_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_RAMBUTAN_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_RAMBUTAN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 61,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ROUND_LIME_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ROUND_LIME_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_ROUND_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 62,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_RUBBER_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_RUBBER_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_RUBBER_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 63,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_SAGUARO_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_SAGUARO_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_SAGUARO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 64,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_SAND_PEAR_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_SAND_PEAR_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_SAND_PEAR_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 65,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_SPORE_TREE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_SPORE_TREE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_SPORE_TREE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 66,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_TEA_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_TEA_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_TEA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 67,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_TOWER_CAP_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_TOWER_CAP_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_TOWER_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 68,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_TUNNEL_TUBE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_TUNNEL_TUBE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_TUNNEL_TUBE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 69,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_WALNUT_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_WALNUT_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_WALNUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 70,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_WAX_MYRTLE_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_WAX_MYRTLE_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_WAX_MYRTLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 71,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_WILLOW_SAPLING:STRUCTURAL",
+				"value" : 1
+			},
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_WILLOW_SAPLING:SEED",
+				"value" : 30
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_COLLECT_SEEDS_FOR_AO_WILLOW_SAPLING"
+	}
+]

@@ -1,0 +1,464 @@
+[
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ACACIA_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ACACIA:POD",
+				"reaction_id" : "AO_COLLECT_AO_ACACIA_SAPLING_SEEDS_FROM_ACACIA_POD",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ACACIA:POD",
+				"reaction_id" : "AO_COLLECT_AO_ACACIA_SAPLING_SEEDS_FROM_ACACIA_POD",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_ACACIA_SAPLING_SEEDS_FROM_ACACIA_POD"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_ALMOND_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ALMOND:NUT",
+				"reaction_id" : "AO_COLLECT_AO_ALMOND_SAPLING_SEEDS_FROM_ALMOND_NUT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:ALMOND:NUT",
+				"reaction_id" : "AO_COLLECT_AO_ALMOND_SAPLING_SEEDS_FROM_ALMOND_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_ALMOND_SAPLING_SEEDS_FROM_ALMOND_NUT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_AVOCADO_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:AVOCADO:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_AVOCADO_SAPLING_SEEDS_FROM_AVOCADO_FRUIT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:AVOCADO:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_AVOCADO_SAPLING_SEEDS_FROM_AVOCADO_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_AVOCADO_SAPLING_SEEDS_FROM_AVOCADO_FRUIT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_HAZEL_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:HAZEL:NUT",
+				"reaction_id" : "AO_COLLECT_AO_HAZEL_SAPLING_SEEDS_FROM_HAZEL_NUT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:HAZEL:NUT",
+				"reaction_id" : "AO_COLLECT_AO_HAZEL_SAPLING_SEEDS_FROM_HAZEL_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_HAZEL_SAPLING_SEEDS_FROM_HAZEL_NUT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_MACADAMIA_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:MACADAMIA:NUT",
+				"reaction_id" : "AO_COLLECT_AO_MACADAMIA_SAPLING_SEEDS_FROM_MACADAMIA_NUT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:MACADAMIA:NUT",
+				"reaction_id" : "AO_COLLECT_AO_MACADAMIA_SAPLING_SEEDS_FROM_MACADAMIA_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_MACADAMIA_SAPLING_SEEDS_FROM_MACADAMIA_NUT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_OAK_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:OAK:NUT",
+				"reaction_id" : "AO_COLLECT_AO_OAK_SAPLING_SEEDS_FROM_OAK_NUT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:OAK:NUT",
+				"reaction_id" : "AO_COLLECT_AO_OAK_SAPLING_SEEDS_FROM_OAK_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_OAK_SAPLING_SEEDS_FROM_OAK_NUT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_OLIVE_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:OLIVE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_OLIVE_SAPLING_SEEDS_FROM_OLIVE_FRUIT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:OLIVE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_OLIVE_SAPLING_SEEDS_FROM_OLIVE_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_OLIVE_SAPLING_SEEDS_FROM_OLIVE_FRUIT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PALM_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PALM:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PALM_SAPLING_SEEDS_FROM_PALM_FRUIT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PALM:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PALM_SAPLING_SEEDS_FROM_PALM_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_PALM_SAPLING_SEEDS_FROM_PALM_FRUIT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PECAN_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PECAN:NUT",
+				"reaction_id" : "AO_COLLECT_AO_PECAN_SAPLING_SEEDS_FROM_PECAN_NUT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PECAN:NUT",
+				"reaction_id" : "AO_COLLECT_AO_PECAN_SAPLING_SEEDS_FROM_PECAN_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_PECAN_SAPLING_SEEDS_FROM_PECAN_NUT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_TEA_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:TEA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_TEA_SAPLING_SEEDS_FROM_TEA_FRUIT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:TEA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_TEA_SAPLING_SEEDS_FROM_TEA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_TEA_SAPLING_SEEDS_FROM_TEA_FRUIT"
+	},
+	{
+		"amount_left" : 5,
+		"amount_total" : 5,
+		"frequency" : "Daily",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_WALNUT_SAPLING:SEED",
+				"value" : 5
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:WALNUT:NUT",
+				"reaction_id" : "AO_COLLECT_AO_WALNUT_SAPLING_SEEDS_FROM_WALNUT_NUT",
+				"value" : 5
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:WALNUT:NUT",
+				"reaction_id" : "AO_COLLECT_AO_WALNUT_SAPLING_SEEDS_FROM_WALNUT_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_WALNUT_SAPLING_SEEDS_FROM_WALNUT_NUT"
+	}
+]

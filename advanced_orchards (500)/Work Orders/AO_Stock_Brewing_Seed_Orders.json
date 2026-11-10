@@ -1,0 +1,926 @@
+[
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_APPLE_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:APPLE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_APPLE_SAPLING_SEEDS_FROM_APPLE_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:APPLE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_APPLE_SAPLING_SEEDS_FROM_APPLE_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_APPLE_SAPLING_SEEDS_FROM_APPLE_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_APRICOT_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:APRICOT:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_APRICOT_SAPLING_SEEDS_FROM_APRICOT_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:APRICOT:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_APRICOT_SAPLING_SEEDS_FROM_APRICOT_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_APRICOT_SAPLING_SEEDS_FROM_APRICOT_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BANANA_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:BANANA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_BANANA_SAPLING_SEEDS_FROM_BANANA_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:BANANA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_BANANA_SAPLING_SEEDS_FROM_BANANA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_BANANA_SAPLING_SEEDS_FROM_BANANA_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BAYBERRY_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:BAYBERRY:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_BAYBERRY_SAPLING_SEEDS_FROM_BAYBERRY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:BAYBERRY:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_BAYBERRY_SAPLING_SEEDS_FROM_BAYBERRY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_BAYBERRY_SAPLING_SEEDS_FROM_BAYBERRY_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CARAMBOLA_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CARAMBOLA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_CARAMBOLA_SAPLING_SEEDS_FROM_CARAMBOLA_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CARAMBOLA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_CARAMBOLA_SAPLING_SEEDS_FROM_CARAMBOLA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_CARAMBOLA_SAPLING_SEEDS_FROM_CARAMBOLA_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CHERRY_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CHERRY:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_CHERRY_SAPLING_SEEDS_FROM_CHERRY_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CHERRY:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_CHERRY_SAPLING_SEEDS_FROM_CHERRY_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_CHERRY_SAPLING_SEEDS_FROM_CHERRY_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CHESTNUT_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CHESTNUT:NUT",
+				"reaction_id" : "AO_COLLECT_AO_CHESTNUT_SAPLING_SEEDS_FROM_CHESTNUT_NUT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CHESTNUT:NUT",
+				"reaction_id" : "AO_COLLECT_AO_CHESTNUT_SAPLING_SEEDS_FROM_CHESTNUT_NUT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_CHESTNUT_SAPLING_SEEDS_FROM_CHESTNUT_NUT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_CUSTARD-APPLE_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CUSTARD-APPLE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_CUSTARD-APPLE_SAPLING_SEEDS_FROM_CUSTARD-APPLE_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:CUSTARD-APPLE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_CUSTARD-APPLE_SAPLING_SEEDS_FROM_CUSTARD-APPLE_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_CUSTARD-APPLE_SAPLING_SEEDS_FROM_CUSTARD-APPLE_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_DATE_PALM_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:DATE_PALM:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_DATE_PALM_SAPLING_SEEDS_FROM_DATE_PALM_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:DATE_PALM:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_DATE_PALM_SAPLING_SEEDS_FROM_DATE_PALM_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_DATE_PALM_SAPLING_SEEDS_FROM_DATE_PALM_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_DURIAN_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:DURIAN:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_DURIAN_SAPLING_SEEDS_FROM_DURIAN_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:DURIAN:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_DURIAN_SAPLING_SEEDS_FROM_DURIAN_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_DURIAN_SAPLING_SEEDS_FROM_DURIAN_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_GUAVA_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:GUAVA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_GUAVA_SAPLING_SEEDS_FROM_GUAVA_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:GUAVA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_GUAVA_SAPLING_SEEDS_FROM_GUAVA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_GUAVA_SAPLING_SEEDS_FROM_GUAVA_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 11,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_LYCHEE_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:LYCHEE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_LYCHEE_SAPLING_SEEDS_FROM_LYCHEE_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:LYCHEE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_LYCHEE_SAPLING_SEEDS_FROM_LYCHEE_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_LYCHEE_SAPLING_SEEDS_FROM_LYCHEE_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 12,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_MANGO_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:MANGO:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_MANGO_SAPLING_SEEDS_FROM_MANGO_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:MANGO:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_MANGO_SAPLING_SEEDS_FROM_MANGO_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_MANGO_SAPLING_SEEDS_FROM_MANGO_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 13,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PAPAYA_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PAPAYA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PAPAYA_SAPLING_SEEDS_FROM_PAPAYA_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PAPAYA:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PAPAYA_SAPLING_SEEDS_FROM_PAPAYA_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_PAPAYA_SAPLING_SEEDS_FROM_PAPAYA_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 14,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PEACH_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PEACH:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PEACH_SAPLING_SEEDS_FROM_PEACH_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PEACH:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PEACH_SAPLING_SEEDS_FROM_PEACH_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_PEACH_SAPLING_SEEDS_FROM_PEACH_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 15,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PEAR_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PEAR:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PEAR_SAPLING_SEEDS_FROM_PEAR_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PEAR:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PEAR_SAPLING_SEEDS_FROM_PEAR_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_PEAR_SAPLING_SEEDS_FROM_PEAR_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 16,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PERSIMMON_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PERSIMMON:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PERSIMMON_SAPLING_SEEDS_FROM_PERSIMMON_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PERSIMMON:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PERSIMMON_SAPLING_SEEDS_FROM_PERSIMMON_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_PERSIMMON_SAPLING_SEEDS_FROM_PERSIMMON_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 17,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_PLUM_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PLUM:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PLUM_SAPLING_SEEDS_FROM_PLUM_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:PLUM:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_PLUM_SAPLING_SEEDS_FROM_PLUM_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_PLUM_SAPLING_SEEDS_FROM_PLUM_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 18,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_POMEGRANATE_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:POMEGRANATE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_POMEGRANATE_SAPLING_SEEDS_FROM_POMEGRANATE_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:POMEGRANATE:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_POMEGRANATE_SAPLING_SEEDS_FROM_POMEGRANATE_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_POMEGRANATE_SAPLING_SEEDS_FROM_POMEGRANATE_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 19,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_RAMBUTAN_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:RAMBUTAN:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_RAMBUTAN_SAPLING_SEEDS_FROM_RAMBUTAN_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:RAMBUTAN:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_RAMBUTAN_SAPLING_SEEDS_FROM_RAMBUTAN_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_RAMBUTAN_SAPLING_SEEDS_FROM_RAMBUTAN_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 20,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_SAGUARO_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:SAGUARO:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_SAGUARO_SAPLING_SEEDS_FROM_SAGUARO_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:SAGUARO:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_SAGUARO_SAPLING_SEEDS_FROM_SAGUARO_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_SAGUARO_SAPLING_SEEDS_FROM_SAGUARO_FRUIT"
+	},
+	{
+		"amount_left" : 20,
+		"amount_total" : 20,
+		"frequency" : "Daily",
+		"id" : 21,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" :
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_SAND_PEAR_SAPLING:SEED",
+				"value" : 20
+			},
+			{
+				"condition" : "LessThan",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:SAND_PEAR:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_SAND_PEAR_SAPLING_SEEDS_FROM_SAND_PEAR_FRUIT",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" :
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT_GROWTH",
+				"material" : "PLANT:SAND_PEAR:FRUIT",
+				"reaction_id" : "AO_COLLECT_AO_SAND_PEAR_SAPLING_SEEDS_FROM_SAND_PEAR_FRUIT",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"max_workshops" : 1,
+		"reaction" : "AO_COLLECT_AO_SAND_PEAR_SAPLING_SEEDS_FROM_SAND_PEAR_FRUIT"
+	}
+]

@@ -1,0 +1,8 @@
+tile_page_advanced_orchards
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:AO_SAPLINGS]
+	[FILE:images/ao_saplings.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:256:352]

@@ -1,0 +1,2192 @@
+[
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 0,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "THREAD",
+				"material" : "PLANT:ABACA:THREAD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ABACA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_ABACA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_ABACA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 1,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:ACACIA:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ACACIA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_ACACIA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_ACACIA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 2,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:ALDER:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ALDER_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_ALDER_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_ALDER_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 3,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:ALMOND:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ALMOND_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_ALMOND_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_ALMOND_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 4,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:APPLE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_APPLE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_APPLE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_APPLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 5,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:APRICOT:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_APRICOT_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_APRICOT_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_APRICOT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 6,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:ASH:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ASH_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_ASH_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_ASH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 7,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:AVOCADO:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_AVOCADO_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_AVOCADO_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_AVOCADO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 8,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "SEEDS",
+				"material" : "PLANT:AO_BANANA_SAPLING:SEED",
+				"value" : 30
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BANANA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_BANANA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_BANANA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 9,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:BAYBERRY:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BAYBERRY_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_BAYBERRY_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_BAYBERRY_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 10,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:BIRCH:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BIRCH_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_BIRCH_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_BIRCH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 11,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:BITTER_ORANGE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BITTER_ORANGE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_BITTER_ORANGE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_BITTER_ORANGE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 12,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:BLACK_CAP:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BLACK_CAP_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_BLACK_CAP_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_BLACK_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 13,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:BLOOD_THORN:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_BLOOD_THORN_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_BLOOD_THORN_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_BLOOD_THORN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 14,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CACAO:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CACAO_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CACAO_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CACAO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 15,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CANDLENUT:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CANDLENUT_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CANDLENUT_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CANDLENUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 16,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CARAMBOLA:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CARAMBOLA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CARAMBOLA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CARAMBOLA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 17,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CASHEW:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CASHEW_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CASHEW_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CASHEW_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 18,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CEDAR:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CEDAR_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CEDAR_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CEDAR_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 19,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CHERRY:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CHERRY_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CHERRY_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CHERRY_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 20,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CHESTNUT:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CHESTNUT_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CHESTNUT_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CHESTNUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 21,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CITRON:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CITRON_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CITRON_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CITRON_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 22,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PALM:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PALM_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PALM_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PALM_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 23,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:COFFEE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_COFFEE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_COFFEE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_COFFEE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 24,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:CUSTARD-APPLE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_CUSTARD-APPLE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_CUSTARD-APPLE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_CUSTARD-APPLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 25,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:DATE_PALM:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_DATE_PALM_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_DATE_PALM_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_DATE_PALM_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 26,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:DESERT_LIME:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_DESERT_LIME_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_DESERT_LIME_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_DESERT_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 27,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:DURIAN:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_DURIAN_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_DURIAN_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_DURIAN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 28,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:FEATHER:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_FEATHER_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_FEATHER_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_FEATHER_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 29,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:FINGER_LIME:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_FINGER_LIME_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_FINGER_LIME_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_FINGER_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 30,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:FUNGIWOOD:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_FUNGIWOOD_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_FUNGIWOOD_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_FUNGIWOOD_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 31,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:GINKGO:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GINKGO_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_GINKGO_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_GINKGO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 32,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:GLUMPRONG:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GLUMPRONG_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_GLUMPRONG_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_GLUMPRONG_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 33,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:GOBLIN_CAP:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GOBLIN_CAP_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_GOBLIN_CAP_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_GOBLIN_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 34,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:GUAVA:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_GUAVA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_GUAVA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_GUAVA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 35,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:HAZEL:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_HAZEL_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_HAZEL_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_HAZEL_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 36,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:HIGHWOOD:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_HIGHWOOD_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_HIGHWOOD_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_HIGHWOOD_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 37,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:KAPOK:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_KAPOK_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_KAPOK_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_KAPOK_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 38,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:KUMQUAT:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_KUMQUAT_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_KUMQUAT_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_KUMQUAT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 39,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:LARCH:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_LARCH_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_LARCH_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_LARCH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 40,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:LIME:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_LIME_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_LIME_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 41,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:LYCHEE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_LYCHEE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_LYCHEE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_LYCHEE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 42,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:MACADAMIA:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MACADAMIA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_MACADAMIA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_MACADAMIA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 43,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:MAHOGANY:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MAHOGANY_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_MAHOGANY_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_MAHOGANY_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 44,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:MANGO:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MANGO_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_MANGO_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_MANGO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 45,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:MANGROVE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MANGROVE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_MANGROVE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_MANGROVE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 46,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:MAPLE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_MAPLE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_MAPLE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_MAPLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 47,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:NETHER_CAP:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_NETHER_CAP_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_NETHER_CAP_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_NETHER_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 48,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:OAK:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_OAK_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_OAK_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_OAK_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 49,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:OLIVE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_OLIVE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_OLIVE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_OLIVE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 50,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:ORANGE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ORANGE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_ORANGE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_ORANGE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 51,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PAPAYA:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PAPAYA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PAPAYA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PAPAYA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 52,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PARADISE_NUT:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PARADISE_NUT_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PARADISE_NUT_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PARADISE_NUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 53,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PEACH:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PEACH_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PEACH_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PEACH_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 54,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PEAR:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PEAR_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PEAR_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PEAR_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 55,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PECAN:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PECAN_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PECAN_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PECAN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 56,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PERSIMMON:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PERSIMMON_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PERSIMMON_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PERSIMMON_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 57,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PINE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PINE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PINE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PINE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 58,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:PLUM:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_PLUM_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_PLUM_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_PLUM_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 59,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:POMEGRANATE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_POMEGRANATE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_POMEGRANATE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_POMEGRANATE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 60,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:POMELO:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_POMELO_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_POMELO_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_POMELO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 61,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:RAMBUTAN:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_RAMBUTAN_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_RAMBUTAN_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_RAMBUTAN_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 62,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:ROUND_LIME:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_ROUND_LIME_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_ROUND_LIME_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_ROUND_LIME_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 63,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:RUBBER:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_RUBBER_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_RUBBER_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_RUBBER_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 64,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:SAGUARO:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_SAGUARO_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_SAGUARO_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_SAGUARO_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 65,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:SAND_PEAR:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_SAND_PEAR_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_SAND_PEAR_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_SAND_PEAR_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 66,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:SPORE_TREE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_SPORE_TREE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_SPORE_TREE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_SPORE_TREE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 67,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:TEA:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_TEA_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_TEA_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_TEA_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 68,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:TOWER_CAP:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_TOWER_CAP_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_TOWER_CAP_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_TOWER_CAP_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 69,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:TUNNEL_TUBE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_TUNNEL_TUBE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_TUNNEL_TUBE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_TUNNEL_TUBE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 70,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:WALNUT:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_WALNUT_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_WALNUT_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_WALNUT_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 71,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:AA_WAX_MYRTLE:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_WAX_MYRTLE_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_WAX_MYRTLE_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_WAX_MYRTLE_SAPLING"
+	},
+	{
+		"amount_left" : 1,
+		"amount_total" : 10,
+		"frequency" : "Daily",
+		"id" : 72,
+		"is_active" : false,
+		"is_validated" : true,
+		"item_conditions" : 
+		[
+			{
+				"condition" : "LessThan",
+				"item_type" : "WOOD",
+				"material" : "PLANT:WILLOW:WOOD",
+				"value" : 20
+			},
+			{
+				"condition" : "AtLeast",
+				"flags" : 
+				[
+					"unrotten"
+				],
+				"item_type" : "PLANT",
+				"material" : "PLANT:AO_WILLOW_SAPLING:STRUCTURAL",
+				"reaction_id" : "AO_PROCESS_AO_WILLOW_SAPLING",
+				"value" : 1
+			}
+		],
+		"job" : "CustomReaction",
+		"reaction" : "AO_PROCESS_AO_WILLOW_SAPLING"
+	}
+]
